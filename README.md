@@ -1,10 +1,32 @@
 # flaggotry-equestria
 Flags for the Equestria at War mod
 
-Colthage.svg containg flag proporsals for Colthage, Coltiva and Neighmidia. My first work as a development team member!
+Abyssinia.svg: unfinished Abyssinia flags rework
 
-Longsword.svg contains the flag of Communist Longsword.
+Buffalo.svg: Buffalo CHN protectorate
 
-Wingbardy.svg contains the flag and the emblem of Communist Wingbardy. It also features the older version and my desperate attempt to create a flag of the Proletarian Empire.
+CamelTribes.svg: Free Camel Tribes and Boltria
 
-Olenia-Changelingia.svg contains the Communist flags of Olenia, Changelingia and their Union, also flags for Chital.
+Colthage.svg: Colthage, Coltiva and Neighmidia
+
+Emirates.svg: The Four Emirs flag
+
+Greneclyf.svg: Communist Greneclyf and Barbrook proporsals
+
+Karthinia.svg: collaborative work with Rokim21 for Neutral Karthinia
+
+Khamre.svg: my reworks of Mageytash's flags for Khamre and Nguanam
+
+Longsword.svg: rejected flag for the Communist Longsword.
+
+Olenia-Changelingia.svg: Communist flags of Olenia, Changelingia and their Union; Chital flags.
+
+Tobuck.svg: Tobuck and Zarantia flags
+
+Ugabi.svg: Ugabi flags
+
+Wingbardy.svg: flag and the emblem of Communist Wingbardy; Proletarian Empire proporsal
+
+Zeblu.svg: Zeblu flags
+
+Zebrides folder: the heavy, resource-demanding, unsorted work for independent Zebrides: national patterns and flags
