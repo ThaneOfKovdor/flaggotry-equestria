@@ -1,7 +1,7 @@
 # flaggotry-equestria
 Flags for the Equestria at War mod
 
-Abyssinia.svg: unfinished Abyssinia flags rework
+Abyssinia.svg: Abyssinia flags rework, all with the same patterns
 
 Buffalo.svg: Buffalo CHN protectorate
 
@@ -15,11 +15,15 @@ Greneclyf.svg: Communist Greneclyf and Barbrook proporsals
 
 Karthinia.svg: collaborative work with Rokim21 for Neutral Karthinia
 
+Kiria.svg: Supremacist Kiria proporsals
+
 Khamre.svg: my reworks of Mageytash's flags for Khamre and Nguanam
 
 Longsword.svg: rejected flag for the Communist Longsword.
 
-Olenia-Changelingia.svg: Communist flags of Olenia, Changelingia and their Union; Chital flags.
+Maregypt.svg: Nationalist Maregypt proporsals
+
+Olenia-Changelingia.svg: Communist flags of Olenia, Changelingia and their Union; Chital flags
 
 Tobuck.svg: Tobuck and Zarantia flags
 
