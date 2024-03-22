@@ -4,7 +4,7 @@ The assets are free for editing and using for your projects. However, some of th
 
 Abyssinia.svg: Abyssinia flags rework
 
-Buffalo.svg: Buffalo CHN protectorate
+Buffalo.svg: Buffalo CHN protectorate (the tomahawk graphic is not mine)
 
 CamelTribes.svg: Free Camel Tribes and Boltria
 
