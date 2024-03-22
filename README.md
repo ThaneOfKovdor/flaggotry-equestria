@@ -2,7 +2,7 @@
 Flags I made for Equestria at War mod.
 The assets are free for editing and using for your projects. However, some of the graphics are not originally mine, so be careful using them!
 
-Abyssinia.svg: Abyssinia flags rework
+Abyssinia.svg: Abyssinia flags rework (the paw graphic is not mine)
 
 Buffalo.svg: Buffalo CHN protectorate (the tomahawk graphic is not mine)
 
