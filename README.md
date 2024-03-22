@@ -1,29 +1,34 @@
 # flaggotry-equestria
-Flags for the Equestria at War mod
+Flags I made for Equestria at War mod
+The assets are free for editing and using for your projects. However, some of the graphics are not originally mine, so be careful using them!
 
-Abyssinia.svg: Abyssinia flags rework, all with the same patterns
+Abyssinia.svg: Abyssinia flags rework
 
 Buffalo.svg: Buffalo CHN protectorate
 
 CamelTribes.svg: Free Camel Tribes and Boltria
 
-Colthage.svg: Colthage, Coltiva and Neighmidia
+Chital.svg: Proporsals for Chital and its breakaway states
+
+Colthage.svg: Colthage, Coltiva and Neighmidia (the armored zebra graphic is not mine)
 
 Emirates.svg: The Four Emirs flag
 
-Greneclyf.svg: Communist Greneclyf and Barbrook proporsals
+Greneclyf.svg: Communist Greneclyf and Farbrook rejected proporsals
 
 Karthinia.svg: collaborative work with Rokim21 for Neutral Karthinia
 
-Kiria.svg: Supremacist Kiria proporsals
-
 Khamre.svg: my reworks of Mageytash's flags for Khamre and Nguanam
 
-Longsword.svg: rejected flag for the Communist Longsword.
+Kiria.svg: Supremacist Kiria proporsals (the nirik graphic is not mine)
+
+Les Meridiennes.svg: proporsals for the Aquilean colony
+
+Longsword.svg: rejected flag for the Communist Longsword
 
 Maregypt.svg: Nationalist Maregypt proporsals
 
-Olenia-Changelingia.svg: Communist flags of Olenia, Changelingia and their Union; Chital flags
+Maretonia.svg: The ugly Maretonia and Aestlonia flags
 
 Tobuck.svg: Tobuck and Zarantia flags
 
